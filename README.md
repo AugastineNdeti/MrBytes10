@@ -20,10 +20,10 @@
 
 ## 📊 WakaTime Stats
 <!-- WAKATIME_STATS:START -->
-**📊 11 mins over the Last 7 Days**
+**📊 5 mins over the Last 7 Days**
 
 **⏱️ Time spent on each Language:**
-- **TypeScript**: 11 mins (100%)
+- **TypeScript**: 5 mins (100%)
 <!-- WAKATIME_STATS:END -->
 
 ## 📈 Contribution Summary
@@ -75,7 +75,7 @@
 - C#: 2.3%
 - SCSS: 1.5%
 ---
-*📅 Statistics last updated: June 16, 2026*
+*📅 Statistics last updated: June 17, 2026*
 <!-- REALTIME_STATS:END -->
 
 ## 🏢 Organization Activity
